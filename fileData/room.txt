@@ -1,0 +1,4 @@
+P005,100.0,Phòng trống,1,1
+P012,100.0,Phòng có khách thuê,1,1
+P001,50.0,Phòng trống,1,1
+P003,99.0,Phòng trống,1,1
